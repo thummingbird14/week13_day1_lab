@@ -6,7 +6,7 @@ public class Wallet {
 //    private ArrayList<CreditCard> creditCards;
 //    private ArrayList<DebitCard> debitCards;
 //    private ArrayList<LoyaltyCard> loyaltyCards;
-//    private ArrayList<Ticket> tick
+//    private ArrayList<Ticket> ti
 
     public Wallet(String name) {
         this.name = name;
